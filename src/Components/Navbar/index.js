@@ -20,7 +20,7 @@ function Navbar() {
                 <li className="nav-item mr-5">
                     <Link 
                         to="/myportfolio" 
-                        className={location.pathname === "/myportfolio" ? "nav-link active" : "nav-link"}
+                        className={location.pathname === "/myportfolio" || location.pathname === "/myportfolio/" ? "nav-link active" : "nav-link"}
                     >
                         About
                     </Link>
