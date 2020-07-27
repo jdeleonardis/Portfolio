@@ -1,0 +1,33 @@
+/* special css only for index.html*/
+#social_media_icons {
+    margin-top: 10px;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;    
+    text-align: center;    
+    /* text-decoration: none; */
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect */
+.fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+.fa-github {
+    background: limegreen;
+    color: white;
+  }
+
+  /*end css for index.html*/

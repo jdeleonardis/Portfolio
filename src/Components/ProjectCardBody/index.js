@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import "../../Styles/style.css";
+import "../../Styles/ProjectCardBody.css";
 import { RowOrCol } from "../Grid";
 import ProjectContext from "../../Utils/ProjectContext";
 

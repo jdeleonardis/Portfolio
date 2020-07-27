@@ -1,0 +1,8 @@
+.navbar {
+    background-image: linear-gradient(to right, rgb(39, 58, 58) , rgb(65, 131, 109));
+  }
+  
+  #navbar_name {
+      font-size: 30px;
+      color: whitesmoke
+  }

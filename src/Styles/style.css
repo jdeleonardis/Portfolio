@@ -1,10 +1,6 @@
-/* css for all webpages...body, containers, navbar, footer */
+/* css for all webpages...body, container, footer, headers, and disabled button */
 body {
     padding-top: 65px;
-    /* background-image: url("../Images/quartz_background.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover; */
     background-color: rgb(201, 201, 201);
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;    
@@ -12,96 +8,24 @@ body {
 
 body h3 h4 {
   color: rgb(39, 58, 58);;
-  /* text-shadow: 2px 2px 3px #000000; */
-}
-
-.technologies {
-  font-size: medium;
-}
-
-.navbar {
-  background-image: linear-gradient(to right, rgb(39, 58, 58) , rgb(65, 131, 109));
 }
 
 body p {
-    font-size: large;
+  font-size: large;
 }
 
 .container {
-    background: white;
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
-#navbar_name {
-    font-size: 30px;
-    color: whitesmoke
-}
-
-.linkedWork {
-  font-size: medium;
-}
-
-.caption {
-    text-align: center;
+  background: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .footer {
-    text-align: center;
-    background-color: rgb(39, 58, 58);
+  text-align: center;
+  background-color: rgb(39, 58, 58);
 }
 
-/* special css only for index.html*/
-#social_media_icons {
-    margin-top: 10px;
+button:disabled {
+  cursor: not-allowed;
+  pointer-events: all !important;
 }
-
-/* Style all font awesome icons */
-.fa {
-    padding: 10px;
-    font-size: 30px;
-    width: 50px;
-    height: 50px;    
-    text-align: center;    
-    /* text-decoration: none; */
-    border-radius: 50%;
-  }
-  
-  /* Add a hover effect */
-.fa:hover {
-    opacity: 0.7;
-  }
-  
-  /* Set a specific color for each brand */
-.fa-linkedin {
-    background: #007bb5;
-    color: white;
-  }
-
-.fa-github {
-    background: limegreen;
-    color: white;
-  }
-
-  /*end css for index.html*/
-
-
-  button:disabled {
-    cursor: not-allowed;
-    pointer-events: all !important;
-  }
-
-  input[type=text], input[type="email"] {
-    color: black;
-    font-weight: bold;
-  }
-
-  input[type=text]:focus, input[type="email"]:focus{
-    color: black;
-    font-weight: bold;
-  }
-
-  #textArea {
-    color: black;
-    font-weight: bold;    
-    resize: none;
-  }

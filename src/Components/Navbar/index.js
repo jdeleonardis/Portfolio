@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import "../../Styles/style.css";
+import "../../Styles/Navbar.css";
 
 //function FriendCard(props) {
 function Navbar() {

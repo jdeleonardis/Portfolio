@@ -3,6 +3,7 @@
 //email. So, I used javascript instead to get the elements, which appears to work fine.
 
 import React, { useState } from "react";
+import "../../Styles/ContactForm.css";
 import "../../Styles/style.css";
 import emailjs from 'emailjs-com';
 import SimpleModal from "../SimpleModal";
