@@ -30,9 +30,9 @@ function AboutMe() {
 
             <div>
                 <p>Hello!  My name is Jay DeLeonardis and I am a web developer from Hillsborough, North Carolina.  I have spent nearly 25 years as a software developer, 
-                    but have recently reimagined my career by enrolling in a Full Stack Developer program at the University of North Carolina.
+                    but have recently reimagined my career by enrolling in and completing a Full Stack Developer program at the University of North Carolina.
                     This program is an intensive class covering
-                    all aspects of web development including HTML, CSS, Javascript, React.js (which this portfolio is written in), JQuery, AJAX, Express, Node, MongoDB, as well as using
+                    all aspects of web development including HTML, CSS, Javascript, React.js (which this portfolio is written in), JQuery, AJAX, Express, Node, MySQL, MongoDB, as well as using
                     GitHub for project repositories and source control.
                 </p>
                 <p>
@@ -43,11 +43,11 @@ function AboutMe() {
                 </p>
                 <p>
                     I am fluent in several object oriented programming languages.  I spent many years as a Powerbuilder developer at an Identity laboratory
-                    at Laboratory Corporation of America.  While at Labcorp, I was responsible for converting several applications to C#. I have also worked on many different databases,
-                    including SQL Server, Oracle, and MS Access.
+                    at Laboratory Corporation of America.  While at Labcorp, I was responsible for converting several applications to C#. I have also worked on many different databases
+                    built using SQL Server and Oracle.
                 </p>        
                 <p>
-                    As a previous member of many programming teams, I am very proud of my ability to work in a small group of developers, software testers, and especially end users.
+                    As a member of many different programming teams, I am very proud of my ability to work in a small group of developers, software testers, and especially end users.
                     I am always ready to lend a helping hand to less experienced programmers, and I feel that I make a very good teammate.  I am a strong listener, and I am always very 
                     cognizant of needs, problems, and challenges that end users may face.  I also spent a short time as an IT Director,
                     and while my experience in management wasn't exactly what I expected, I learned a lot about people's behavior which can help me in the future.

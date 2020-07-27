@@ -8,13 +8,12 @@ import Footer from "./Components/Footer";
 
 function App() {
   return (
-    <HashRouter>      
+    <HashRouter basename="/">      
         <Navbar />        
-        <main className="container">
-          <Route exact path="/" component={Home} />
-          <Route path="/myportfolio" component={Home} />        
-          <Route exact path="/portfolio" component={Portfolio} />                    
-          <Route exact path="/contact" component={Contact} /> 
+        <main className="container">          
+          <Route exact path="/myportfolio/" component={Home} />        
+          <Route exact path="/myportfolio/portfolio" component={Portfolio} />                    
+          <Route exact path="/myportfolio/contact" component={Contact} /> 
         </main>                
         <Footer />      
     </HashRouter>
