@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.de084e4f.chunk.css",
+    "main.js": "/home/static/js/main.0e9b8e55.chunk.js",
+    "main.js.map": "/home/static/js/main.0e9b8e55.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.87f3545d.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.87f3545d.js.map",
+    "static/js/2.bfea3562.chunk.js": "/home/static/js/2.bfea3562.chunk.js",
+    "static/js/2.bfea3562.chunk.js.map": "/home/static/js/2.bfea3562.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.3fb6d2b1c87d100c6728edc3ce648c2e.js": "/home/precache-manifest.3fb6d2b1c87d100c6728edc3ce648c2e.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.de084e4f.chunk.css.map": "/home/static/css/main.de084e4f.chunk.css.map",
+    "static/js/2.bfea3562.chunk.js.LICENSE.txt": "/home/static/js/2.bfea3562.chunk.js.LICENSE.txt",
+    "static/media/Day Planner.png": "/home/static/media/Day Planner.6cc5578d.png",
+    "static/media/Eat Da Burger.png": "/home/static/media/Eat Da Burger.de8fec87.png",
+    "static/media/Team Generator.png": "/home/static/media/Team Generator.5aefba0b.png",
+    "static/media/Weather Dashboard.png": "/home/static/media/Weather Dashboard.480e08d5.png",
+    "static/media/pantrybuddy.png": "/home/static/media/pantrybuddy.17b47ec9.png",
+    "static/media/photo0.jpg": "/home/static/media/photo0.c0eb0fc2.jpg",
+    "static/media/smsol.png": "/home/static/media/smsol.7607013a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87f3545d.js",
+    "static/js/2.bfea3562.chunk.js",
+    "static/css/main.de084e4f.chunk.css",
+    "static/js/main.0e9b8e55.chunk.js"
+  ]
+}
