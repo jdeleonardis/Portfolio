@@ -6,11 +6,11 @@ import "../../Styles/style.css";
 function Navbar() {
   const location = useLocation();    
 
-  console.log(location.pathname)
+  //console.log(location.pathname)
 
   return (
     <nav className="navbar navbar-expand-lg navbar-dark border-bottom border-dark fixed-top">    
-        <a className="navbar-brand" id="navbar_name" href="/">James L DeLeonardis</a>
+        <a className="navbar-brand" id="navbar_name" href="/myportfolio">James L DeLeonardis</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
         </button>
