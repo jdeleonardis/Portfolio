@@ -30,7 +30,7 @@ function ContactForm() {
     //using refs caused email js to send emails with no data.
     //nameRef.current.value = "";
     // emailRef.current.value = "";
-    // messageRef.current.value = "";   
+    // messageRef.current.value = "";       
 
     emailjs.sendForm('gmail', 'contact_form', e.target, 'user_cUeBxGevFya5FJOZR0YzF')
       .then((result) => {
