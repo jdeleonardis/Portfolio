@@ -12,7 +12,7 @@ function App() {
         <Navbar />        
         <main className="container">
           <Route exact path="/" component={Home} />
-          <Route exact path="/myportfolio" component={Home} />        
+          <Route path="/myportfolio" component={Home} />        
           <Route exact path="/portfolio" component={Portfolio} />                    
           <Route exact path="/contact" component={Contact} /> 
         </main>                
