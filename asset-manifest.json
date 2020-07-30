@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.455561ca.chunk.css",
-    "main.js": "/myportfolio/static/js/main.c30a15d4.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.c30a15d4.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.3f6543e1.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.3f6543e1.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.e0c5870f.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.e0c5870f.js.map",
-    "static/js/2.e35b314b.chunk.js": "/myportfolio/static/js/2.e35b314b.chunk.js",
-    "static/js/2.e35b314b.chunk.js.map": "/myportfolio/static/js/2.e35b314b.chunk.js.map",
+    "static/js/2.72a1a553.chunk.js": "/myportfolio/static/js/2.72a1a553.chunk.js",
+    "static/js/2.72a1a553.chunk.js.map": "/myportfolio/static/js/2.72a1a553.chunk.js.map",
     "index.html": "/myportfolio/index.html",
-    "precache-manifest.cb04c33075fde60344065756586fe0f7.js": "/myportfolio/precache-manifest.cb04c33075fde60344065756586fe0f7.js",
+    "precache-manifest.9803cf89afbd072f9282ed1fed61e94b.js": "/myportfolio/precache-manifest.9803cf89afbd072f9282ed1fed61e94b.js",
     "service-worker.js": "/myportfolio/service-worker.js",
     "static/css/main.455561ca.chunk.css.map": "/myportfolio/static/css/main.455561ca.chunk.css.map",
-    "static/js/2.e35b314b.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.e35b314b.chunk.js.LICENSE.txt",
+    "static/js/2.72a1a553.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.72a1a553.chunk.js.LICENSE.txt",
     "static/media/Day Planner.png": "/myportfolio/static/media/Day Planner.6cc5578d.png",
     "static/media/Eat Da Burger.png": "/myportfolio/static/media/Eat Da Burger.de8fec87.png",
     "static/media/Team Generator.png": "/myportfolio/static/media/Team Generator.5aefba0b.png",
     "static/media/Weather Dashboard.png": "/myportfolio/static/media/Weather Dashboard.480e08d5.png",
+    "static/media/appimg1.png": "/myportfolio/static/media/appimg1.6e2f8633.png",
     "static/media/pantrybuddy.png": "/myportfolio/static/media/pantrybuddy.17b47ec9.png",
     "static/media/photo0.jpg": "/myportfolio/static/media/photo0.c0eb0fc2.jpg",
     "static/media/smsol.png": "/myportfolio/static/media/smsol.7607013a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e0c5870f.js",
-    "static/js/2.e35b314b.chunk.js",
+    "static/js/2.72a1a553.chunk.js",
     "static/css/main.455561ca.chunk.css",
-    "static/js/main.c30a15d4.chunk.js"
+    "static/js/main.3f6543e1.chunk.js"
   ]
 }
