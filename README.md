@@ -11,7 +11,7 @@ My Portfolio
 - [License](#License)
 
 ## Description
-This project uses React to build the initial structure of the files.  Included with react are all of the components necessary to render on the screen.  The software immediately calls an API that retrieves dummy user data, and that data is displayed in a table.  The user can then either search for a specific user, or sort the data by clicking on the headings of the table.
+This is my personal portfolio site.  It has been written using React.js.  The portfolio page is displayed by looping through json list of projects, images, and links.  The contact page uses emailjs to send contact information to a personal email address.
 
 ## Installation
 npm start
