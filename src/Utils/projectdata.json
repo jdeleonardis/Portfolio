@@ -49,6 +49,15 @@
         ,
         {
             "id": 6,
+            "appName": "Employee Directory",
+            "description": "The Employee Summary application is actually a template engine testing the use of node.js and the npm inquirer and jest modules. In addition, the application tests the knowledge of classes, inheritance, and some debugging of previously existing code.",
+            "techUsed": "Bootstrap, React.js, Javascript, HTML, CSS, API to randomuser.me",
+            "imgLocation": "directory.png",
+            "repoAddress": "https://github.com/jdeleonardis/Employee-Directory",
+            "deployedAddress": "https://jdeleonardis.github.io/Employee-Directory/"
+        },        
+        {
+            "id": 7,
             "appName": "Employee Summary",
             "description": "The Employee Summary application is actually a template engine testing the use of node.js and the npm inquirer and jest modules. In addition, the application tests the knowledge of classes, inheritance, and some debugging of previously existing code.",
             "techUsed": "Bootstrap, npm inquirer, npm jest, jQuery, Javascript, HTML, CSS",
