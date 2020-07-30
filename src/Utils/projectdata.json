@@ -50,7 +50,7 @@
         {
             "id": 6,
             "appName": "Employee Directory",
-            "description": "The Employee Summary application is actually a template engine testing the use of node.js and the npm inquirer and jest modules. In addition, the application tests the knowledge of classes, inheritance, and some debugging of previously existing code.",
+            "description": "Employee Directory makes use of React.js to make a component based application.  There is an API call that uses randomuser.me to retrieve bogus employee information.  The user can search by name or click on any column to sort.",
             "techUsed": "Bootstrap, React.js, Javascript, HTML, CSS, API to randomuser.me",
             "imgLocation": "directory.png",
             "repoAddress": "https://github.com/jdeleonardis/Employee-Directory",
