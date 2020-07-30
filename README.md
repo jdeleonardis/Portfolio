@@ -14,10 +14,10 @@ My Portfolio
 This is my personal portfolio site.  It has been written using React.js.  The portfolio page is displayed by looping through json list of projects, images, and links.  The contact page uses emailjs to send contact information to a personal email address.
 
 ## Installation
-npm start
+n/a
 
 ## Usage
-run npm start
+Navigate to the website located at https://jdeleonardis.github.io/myportfolio.
 
 ## Contributors
 jdeleonardis
