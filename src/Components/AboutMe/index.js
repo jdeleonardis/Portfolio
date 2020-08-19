@@ -22,7 +22,7 @@ function AboutMe() {
             <div style={styles.leftBox}>                                    
                 <img src={require('../../Images/photo0.jpg')} className="img" alt="Responsive" style={styles.img}></img>       
                 <SocialMediaIcons />
-                jdeleonardis@hotmail.com
+                jdeleonardis13@gmail.com
                 <br></br>
                 919-599-8859
                 <br></br>
