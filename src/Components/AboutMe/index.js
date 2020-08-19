@@ -50,12 +50,12 @@ function AboutMe() {
                 <p>
                     As a member of many different programming teams, I am very proud of my ability to work in a small group of developers, software testers, and especially end users.
                     I am always ready to lend a helping hand to less experienced programmers, and I feel that I make a very good teammate.  I am a strong listener, and I am always very 
-                    cognizant of needs, problems, and challenges that end users may face.  I also spent a short time as an IT Director,
-                    and while my experience in management wasn't exactly what I expected, I learned a lot about people's behavior which can help me in the future.
+                    cognizant of needs, problems, and challenges that end users may face.  I enjoy knowing that my time spent programming may make someone's daily work life a little
+                    easier.
                 </p>        
                 <p>
                     I am looking forward to continuing my career at a company where I can become a member of a team, contribute technically, and provide leadership from my years of experience
-                    in the IT industry..
+                    in the IT industry.
                 </p>
             </div>        
         </RowOrCol>                      
