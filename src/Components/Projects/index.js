@@ -12,9 +12,22 @@ function Projects() {
 
   return (
     <div>     
-        <ProjectContext.Provider value={projectContext}>
-            <ProjectCard />
-        </ProjectContext.Provider>
+      <h1 className='mt-4'>        
+        Professional/Volunteer Projects
+      </h1>      
+      <ProjectContext.Provider value={projectContext}>
+        <ProjectCard 
+          type="professional"
+        />
+      </ProjectContext.Provider>
+      <h1 className='mt-5'>
+        Full Stack Development Program Projects
+      </h1>
+      <ProjectContext.Provider value={projectContext}>
+        <ProjectCard 
+          type="school"
+        />
+      </ProjectContext.Provider>
     </div>  
   );
 }

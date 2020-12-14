@@ -17,7 +17,7 @@ function AboutMe() {
   }
 
   return (
-    <RowOrCol value="row my-3">            
+    <RowOrCol value="row my-5">            
         <RowOrCol value="col-lg-12">                 
             <div style={styles.leftBox}>                                    
                 <img src={require('../../Images/photo0.jpg')} className="img" alt="Responsive" style={styles.img}></img>       
