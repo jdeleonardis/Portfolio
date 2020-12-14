@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.455561ca.chunk.css",
-    "main.js": "/myportfolio/static/js/main.d107b88e.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.d107b88e.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.43143bfc.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.43143bfc.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.e0c5870f.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.e0c5870f.js.map",
-    "static/js/2.e130a8bc.chunk.js": "/myportfolio/static/js/2.e130a8bc.chunk.js",
-    "static/js/2.e130a8bc.chunk.js.map": "/myportfolio/static/js/2.e130a8bc.chunk.js.map",
+    "static/js/2.a2692e8a.chunk.js": "/myportfolio/static/js/2.a2692e8a.chunk.js",
+    "static/js/2.a2692e8a.chunk.js.map": "/myportfolio/static/js/2.a2692e8a.chunk.js.map",
     "index.html": "/myportfolio/index.html",
-    "precache-manifest.9d23cecc3ca872bf9a7a4ac726802539.js": "/myportfolio/precache-manifest.9d23cecc3ca872bf9a7a4ac726802539.js",
+    "precache-manifest.d431f066fb56405db97f57f17a533dd2.js": "/myportfolio/precache-manifest.d431f066fb56405db97f57f17a533dd2.js",
     "service-worker.js": "/myportfolio/service-worker.js",
     "static/css/main.455561ca.chunk.css.map": "/myportfolio/static/css/main.455561ca.chunk.css.map",
-    "static/js/2.e130a8bc.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.e130a8bc.chunk.js.LICENSE.txt",
+    "static/js/2.a2692e8a.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.a2692e8a.chunk.js.LICENSE.txt",
     "static/media/Day Planner.png": "/myportfolio/static/media/Day Planner.6cc5578d.png",
     "static/media/Eat Da Burger.png": "/myportfolio/static/media/Eat Da Burger.de8fec87.png",
     "static/media/Team Generator.png": "/myportfolio/static/media/Team Generator.5aefba0b.png",
@@ -20,12 +20,14 @@
     "static/media/directory.png": "/myportfolio/static/media/directory.354158d2.png",
     "static/media/pantrybuddy.png": "/myportfolio/static/media/pantrybuddy.17b47ec9.png",
     "static/media/photo0.jpg": "/myportfolio/static/media/photo0.c0eb0fc2.jpg",
-    "static/media/smsol.png": "/myportfolio/static/media/smsol.7607013a.png"
+    "static/media/smsol.png": "/myportfolio/static/media/smsol.7607013a.png",
+    "static/media/story-fumbles.png": "/myportfolio/static/media/story-fumbles.f365f363.png",
+    "static/media/yogamb.png": "/myportfolio/static/media/yogamb.0d08914a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e0c5870f.js",
-    "static/js/2.e130a8bc.chunk.js",
+    "static/js/2.a2692e8a.chunk.js",
     "static/css/main.455561ca.chunk.css",
-    "static/js/main.d107b88e.chunk.js"
+    "static/js/main.43143bfc.chunk.js"
   ]
 }
